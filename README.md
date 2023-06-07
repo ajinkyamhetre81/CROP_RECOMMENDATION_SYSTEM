@@ -34,5 +34,5 @@ GaussianNB ( 99 % accuracy score )
 Performance Results
 Accuracy= 99.3%
 
-Demo:
+## Demo:
 ![Screenshot (81)](https://github.com/ajinkyamhetre81/CROP_RECOMMENDATION_SYSTEM/assets/114176664/d408e03a-9ec8-40bd-a562-95939e371427)
